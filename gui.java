@@ -4,4 +4,8 @@ display() {
 //code
 }
 
+view() {
+//code
+}
+
 }
